@@ -1,4 +1,4 @@
-#Homework:
+# Homework:
 
 - Assume that games have multiple participants. Each participant in game can have none or multiple bets.
 Such data is delivered in files of json lines like:
